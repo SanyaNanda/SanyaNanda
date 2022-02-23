@@ -2,9 +2,6 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=SanyaNanda&label=Profile%20views&color=0e75b6&style=plastic" alt="SanyaNanda" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="SanyaNanda" target="_blank"/> 
-	</a>
 </p>
 
 <!--
@@ -22,16 +19,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
-- :trophy: `ACPC` Finalist 2021
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+## :sassy_woman:  About me
+- :school: I am a `Student` at Thapar Institute of Engineering and Technology
+- :student: I’m currently pursuing `Computer Science`
+- :technologist: I love using Software as a solution for `Problems`
+- :sunflower: I am a `Quantum Computing` enthusiast
 - :nerd_face: Always `learning new things`
 
 <br>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a><a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://qiskit.org/" target="_blank"> <img src="![image](https://user-images.githubusercontent.com/51756349/155271763-278a4c57-dfb7-4951-b417-b1713c29a869.png)" alt="qiskit" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
 	<a href="mailto:sanya.nanda@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -46,7 +45,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 📊 Github Stats
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <b>💻 GitHub Profile Stats</b>
   <br/>
   <p align="center">
     <a href="https://github.com/SanyaNanda/github-readme-stats"><img alt="SanyaNanda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanyaNanda&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
@@ -56,9 +55,9 @@ Here are some ideas to get you started:
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <b>⚡ Recent GitHub Activity</b>
   <br/>
-   <a href="https://github.com/SanyaNanda"><img alt="SanyaNanda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SanyaNanda&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/SanyaNanda"><img alt="SanyaNanda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SanyaNanda&custom_title=SanyaNanda's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
