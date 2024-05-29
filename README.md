@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 -->
 
 ## :sassy_woman:  About me
-- :school: I am a `Student` at Thapar Institute of Engineering and Technology
-- :student: I’m currently pursuing `Computer Science`
+- :student: I graduated in `Computer Science` BTech 2023
 - :technologist: I love using Software as a solution for `Problems`
-- :sunflower: I am a `Quantum Computing` enthusiast
+- :sunflower: I am a `ML` enthusiast
 - :nerd_face: Always `learning new things`
 
 <br>
